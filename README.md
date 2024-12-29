@@ -1,0 +1,1 @@
+# django_greate_kart_prj
